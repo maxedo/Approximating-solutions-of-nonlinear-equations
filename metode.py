@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 17 02:01:22 2022
-
-@author: User
-"""
 import numpy as np
 from sympy import *
 from scipy.optimize import minimize_scalar, fsolve
